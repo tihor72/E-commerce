@@ -1,6 +1,6 @@
 {
     "version" : 2,
-    "name" : "Blinkit",
+    "name" : "SnapMart",
     "builds" : [
         {
             "src" : "./index.js",

@@ -16,7 +16,7 @@ const Footer = () => {
                 <a href='' className='hover:text-primary-100'>
                     <FaInstagram/>
                 </a>
-                <a href='' className='hover:text-primary-100'>
+                <a href='https://www.linkedin.com/in/rohith-thodeti-965192253/' className='hover:text-primary-100'>
                     <FaLinkedin/>
                 </a>
             </div>

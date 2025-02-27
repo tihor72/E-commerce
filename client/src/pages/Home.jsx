@@ -30,11 +30,11 @@ const Home = () => {
 
   return (
    <section className='bg-white'>
-      <div className='container mx-auto'>
-          <div className={`w-full h-full min-h-48 bg-blue-100 rounded ${!banner && "animate-pulse my-2" } `}>
+      <div className='container mx-auto my-4 px-4'>
+          <div className={`w-full h-full bg-blue-100 rounded-lg overflow-hidden ${!banner && "animate-pulse my-2" } `}>
               <img
                 src={banner}
-                className='w-full h-full hidden lg:block'
+                className='w-full h-[470px] hidden lg:block'
                 alt='banner' 
               />
               <img
