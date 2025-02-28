@@ -1,1 +1,1 @@
-# Snap/Mart Full Stack MERN App
+# Snap/Mart Website using Full Stack MERN App.
